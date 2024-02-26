@@ -1,3 +1,3 @@
 <?php 
-echo "oksss";
+echo "di ako ukie";
  ?>
